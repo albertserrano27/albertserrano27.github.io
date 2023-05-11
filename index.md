@@ -19,3 +19,5 @@ My GitHub page is http://github.com/albertserrano27.
 * Lab 8
 
     Lab 8, part 1 was my favorite because I was able to make a pattern with the lines of code with I think is interesting. Even though they were just lines it was the beginning of making a pattern.
+
+![The gradient image from Lab 10](images/gradient.png)
